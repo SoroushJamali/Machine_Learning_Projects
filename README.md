@@ -21,8 +21,9 @@ Copy the link of a YouTube video that features a music track that you like.
 Paste the YouTube link in the youtube_link variable.
 Run the notebook from top to bottom, following the instructions along the way.
 The notebook will output a list of recommended songs from Spotify based on the YouTube link that you provided.
-** Author **
+
+**Author**
 This notebook was created by Soroush Jamali.
 
-** License **
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
